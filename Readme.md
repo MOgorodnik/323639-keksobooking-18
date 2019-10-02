@@ -1,7 +1,6 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [Aleksej Lojkewicz](https://up.htmlacademy.ru/javascript/18/user/323639).
-* Наставник: `Максим Огородник`.
+* own practice `Максим Огородник`.
 
 ---
 
